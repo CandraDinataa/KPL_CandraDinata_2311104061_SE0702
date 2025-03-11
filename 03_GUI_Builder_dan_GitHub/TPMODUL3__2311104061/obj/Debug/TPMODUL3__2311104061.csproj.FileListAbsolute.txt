@@ -1,0 +1,10 @@
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\bin\Debug\TPMODUL3__2311104061.exe.config
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\bin\Debug\TPMODUL3__2311104061.exe
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\bin\Debug\TPMODUL3__2311104061.pdb
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\obj\Debug\TPMODUL3__2311104061.csproj.AssemblyReference.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\obj\Debug\TPMODUL3__2311104061.Form1.resources
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\obj\Debug\TPMODUL3__2311104061.Properties.Resources.resources
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\obj\Debug\TPMODUL3__2311104061.csproj.GenerateResource.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\obj\Debug\TPMODUL3__2311104061.csproj.CoreCompileInputs.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\obj\Debug\TPMODUL3__2311104061.exe
+C:\Users\Candra Dinata\source\repos\TPMODUL3__2311104061\TPMODUL3__2311104061\obj\Debug\TPMODUL3__2311104061.pdb
