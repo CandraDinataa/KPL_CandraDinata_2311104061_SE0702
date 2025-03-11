@@ -13,7 +13,7 @@ class Program
     static void Main()
     {
         HaloGeneric halo = new HaloGeneric();
-        halo.SapaUser("NamaPanggilan"); // Ganti dengan nama praktikan
+        halo.SapaUser("can");
     }
 }
 
