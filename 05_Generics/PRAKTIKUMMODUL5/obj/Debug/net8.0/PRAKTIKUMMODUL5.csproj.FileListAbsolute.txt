@@ -1,0 +1,14 @@
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\bin\Debug\net8.0\PRAKTIKUMMODUL5.exe
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\bin\Debug\net8.0\PRAKTIKUMMODUL5.deps.json
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\bin\Debug\net8.0\PRAKTIKUMMODUL5.runtimeconfig.json
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\bin\Debug\net8.0\PRAKTIKUMMODUL5.dll
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\bin\Debug\net8.0\PRAKTIKUMMODUL5.pdb
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\PRAKTIKUMMODUL5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\PRAKTIKUMMODUL5.AssemblyInfoInputs.cache
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\PRAKTIKUMMODUL5.AssemblyInfo.cs
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\PRAKTIKUMMODUL5.csproj.CoreCompileInputs.cache
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\PRAKTIKUMMODUL5.dll
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\refint\PRAKTIKUMMODUL5.dll
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\PRAKTIKUMMODUL5.pdb
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\PRAKTIKUMMODUL5.genruntimeconfig.cache
+C:\Users\Candra Dinata\source\repos\PRAKTIKUMMODUL5\PRAKTIKUMMODUL5\obj\Debug\net8.0\ref\PRAKTIKUMMODUL5.dll
