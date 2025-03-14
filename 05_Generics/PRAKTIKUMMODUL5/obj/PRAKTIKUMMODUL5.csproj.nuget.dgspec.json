@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Candra Dinata\\source\\repos\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj": {}
+    "D:\\gitapalah\\KPL\\05_Generics\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Candra Dinata\\source\\repos\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj": {
+    "D:\\gitapalah\\KPL\\05_Generics\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Candra Dinata\\source\\repos\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj",
+        "projectUniqueName": "D:\\gitapalah\\KPL\\05_Generics\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj",
         "projectName": "PRAKTIKUMMODUL5",
-        "projectPath": "C:\\Users\\Candra Dinata\\source\\repos\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj",
+        "projectPath": "D:\\gitapalah\\KPL\\05_Generics\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5.csproj",
         "packagesPath": "C:\\Users\\Candra Dinata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Candra Dinata\\source\\repos\\PRAKTIKUMMODUL5\\PRAKTIKUMMODUL5\\obj\\",
+        "outputPath": "D:\\gitapalah\\KPL\\05_Generics\\PRAKTIKUMMODUL5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
