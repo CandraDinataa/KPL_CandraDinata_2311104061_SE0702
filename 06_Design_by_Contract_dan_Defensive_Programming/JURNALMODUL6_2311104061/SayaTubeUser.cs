@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 public class SayaTubeUser
 {
@@ -9,6 +10,8 @@ public class SayaTubeUser
 
     public SayaTubeUser(string username)
     {
+        Debug.Assert(username != null && username.Length <= 100, "Username tidak boleh null atau lebih dari 100 karakter");
+
         Random rand = new Random();
         this.id = rand.Next(10000, 99999);
         this.username = username;
@@ -17,6 +20,9 @@ public class SayaTubeUser
 
     public void AddVideo(SayaTubeVideo video)
     {
+        Debug.Assert(video != null, "Video tidak boleh null");
+        Debug.Assert(video.GetPlayCount() < int.MaxValue, "Play count harus kurang dari batas maksimum integer");
+
         uploadedVideos.Add(video);
     }
 
@@ -25,7 +31,7 @@ public class SayaTubeUser
         int total = 0;
         foreach (var video in uploadedVideos)
         {
-            total += video.GetPlayCount(); // Perbaikan: gunakan getter
+            total += video.GetPlayCount(); // Menggunakan getter
         }
         return total;
     }
@@ -33,9 +39,12 @@ public class SayaTubeUser
     public void PrintAllVideoPlaycount()
     {
         Console.WriteLine($"User: {username}");
-        for (int i = 0; i < uploadedVideos.Count; i++)
+        int count = 0;
+        foreach (var video in uploadedVideos)
         {
-            Console.WriteLine($"Video {i + 1} judul: {uploadedVideos[i].GetTitle()}"); // Perbaikan: gunakan getter
+            if (count == 8) break; // Post-condition: Maksimal print 8 video
+            video.PrintVideoDetails();
+            count++;
         }
     }
 }
