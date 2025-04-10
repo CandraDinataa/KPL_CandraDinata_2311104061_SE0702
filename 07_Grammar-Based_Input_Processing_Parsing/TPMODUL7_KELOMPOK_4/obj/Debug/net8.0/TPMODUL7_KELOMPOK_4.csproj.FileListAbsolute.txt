@@ -1,0 +1,16 @@
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\TPMODUL7_KELOMPOK_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\TPMODUL7_KELOMPOK_4.AssemblyInfoInputs.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\TPMODUL7_KELOMPOK_4.AssemblyInfo.cs
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\TPMODUL7_KELOMPOK_4.csproj.CoreCompileInputs.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\bin\Debug\net8.0\TPMODUL7_KELOMPOK_4.exe
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\bin\Debug\net8.0\TPMODUL7_KELOMPOK_4.deps.json
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\bin\Debug\net8.0\TPMODUL7_KELOMPOK_4.runtimeconfig.json
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\bin\Debug\net8.0\TPMODUL7_KELOMPOK_4.dll
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\bin\Debug\net8.0\TPMODUL7_KELOMPOK_4.pdb
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\TPMODUL7_KELOMPOK_4.dll
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\refint\TPMODUL7_KELOMPOK_4.dll
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\TPMODUL7_KELOMPOK_4.pdb
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\TPMODUL7_KELOMPOK_4.genruntimeconfig.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\obj\Debug\net8.0\ref\TPMODUL7_KELOMPOK_4.dll
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\bin\Debug\net8.0\tp7_1_2311104061.json
+C:\Users\Candra Dinata\source\repos\TPMODUL7_KELOMPOK_4\TPMODUL7_KELOMPOK_4\bin\Debug\net8.0\tp7_2_2311104061.json
