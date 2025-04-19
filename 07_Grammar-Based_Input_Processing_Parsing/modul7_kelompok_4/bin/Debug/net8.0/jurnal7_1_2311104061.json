@@ -1,0 +1,21 @@
+{
+  "firstName": "Candra",
+  "lastName": "Dinata",
+  "gender": "Male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Buyut Trusmi",
+    "city": "Cirebon",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2C3",
+      "name": "Pemodelan Perangkat Lunak"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "candra",
+      "lastName": "dinata",
+      "gender": "male",
+      "age": 20,
+      "nim": "2311104061"
+    },
+    {
+      "firstName": "farhan",
+      "lastName": "kurniawan",
+      "gender": "male",
+      "age": 19,
+      "nim": "2311104073"
+    },
+    {
+      "firstName": "marvel",
+      "lastName": "Sanjaya",
+      "gender": "male",
+      "age": 19,
+      "nim": "2311104053"
+    },
+    {
+      "firstName": "Tiurma Grace Angelina",
+      "lastName": "Sihaloho",
+      "gender": "female",
+      "age": 19,
+      "nim": "2311104042"
+    },
+    {
+      "firstName": "riyo",
+      "lastName": "valentino",
+      "gender": "male",
+      "age": 22,
+      "nim": "456754674"
+    }
+  ]
+}

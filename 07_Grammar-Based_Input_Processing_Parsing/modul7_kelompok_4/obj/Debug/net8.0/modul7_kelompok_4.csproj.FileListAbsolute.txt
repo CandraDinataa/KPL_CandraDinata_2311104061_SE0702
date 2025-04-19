@@ -1,0 +1,17 @@
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\jurnal7_1_2311104061.json
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.exe
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.deps.json
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.runtimeconfig.json
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.dll
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\modul7_kelompok_4.pdb
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.AssemblyInfoInputs.cache
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.AssemblyInfo.cs
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.csproj.CoreCompileInputs.cache
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.dll
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\refint\modul7_kelompok_4.dll
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.pdb
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\modul7_kelompok_4.genruntimeconfig.cache
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\obj\Debug\net8.0\ref\modul7_kelompok_4.dll
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\jurnal7_2_2311104061.json
+C:\Users\Candra Dinata\source\repos\modul7_kelompok_4\modul7_kelompok_4\bin\Debug\net8.0\jurnal7_3_2311104061.json
