@@ -1,0 +1,11 @@
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+C:\Users\Candra Dinata\source\repos\TPMODUL10_2311104061\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll

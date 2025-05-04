@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Candra Dinata\\source\\repos\\TPMODUL10_2311104061\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBDD1E2-8C7C-48FC-B1D1-78A04B57DD8F}|AljabarApp\\AljabarApp.csproj|c:\\users\\candra dinata\\source\\repos\\tpmodul10_2311104061\\aljabarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBDD1E2-8C7C-48FC-B1D1-78A04B57DD8F}|AljabarApp\\AljabarApp.csproj|solutionrelative:aljabarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C680B3-E57D-47AC-A57F-AA2C7721A340}|AljabarLibraries\\AljabarLibraries.csproj|c:\\users\\candra dinata\\source\\repos\\tpmodul10_2311104061\\aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C680B3-E57D-47AC-A57F-AA2C7721A340}|AljabarLibraries\\AljabarLibraries.csproj|solutionrelative:aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBDD1E2-8C7C-48FC-B1D1-78A04B57DD8F}|AljabarApp\\AljabarApp.csproj|c:\\users\\candra dinata\\source\\repos\\tpmodul10_2311104061\\aljabarapp\\aljabarapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DBDD1E2-8C7C-48FC-B1D1-78A04B57DD8F}|AljabarApp\\AljabarApp.csproj|solutionrelative:aljabarapp\\aljabarapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AljabarApp",
+              "DocumentMoniker": "C:\\Users\\Candra Dinata\\source\\repos\\TPMODUL10_2311104061\\AljabarApp\\AljabarApp.csproj",
+              "RelativeDocumentMoniker": "AljabarApp\\AljabarApp.csproj",
+              "ToolTip": "C:\\Users\\Candra Dinata\\source\\repos\\TPMODUL10_2311104061\\AljabarApp\\AljabarApp.csproj",
+              "RelativeToolTip": "AljabarApp\\AljabarApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T07:15:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Candra Dinata\\source\\repos\\TPMODUL10_2311104061\\AljabarApp\\Program.cs",
+              "RelativeDocumentMoniker": "AljabarApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Candra Dinata\\source\\repos\\TPMODUL10_2311104061\\AljabarApp\\Program.cs",
+              "RelativeToolTip": "AljabarApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:14:45.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aljabar.cs",
+              "DocumentMoniker": "C:\\Users\\Candra Dinata\\source\\repos\\TPMODUL10_2311104061\\AljabarLibraries\\Aljabar.cs",
+              "RelativeDocumentMoniker": "AljabarLibraries\\Aljabar.cs",
+              "ToolTip": "C:\\Users\\Candra Dinata\\source\\repos\\TPMODUL10_2311104061\\AljabarLibraries\\Aljabar.cs",
+              "RelativeToolTip": "AljabarLibraries\\Aljabar.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:13:03.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
