@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatematikaLibraries", "MatematikaLibraries\MatematikaLibraries.csproj", "{4775FD78-0DAC-4EA3-A64C-2E16E0107A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul10App", "Modul10App\Modul10App.csproj", "{D86B5219-03A8-4AA5-A988-D24AD4A0B127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4775FD78-0DAC-4EA3-A64C-2E16E0107A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4775FD78-0DAC-4EA3-A64C-2E16E0107A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4775FD78-0DAC-4EA3-A64C-2E16E0107A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4775FD78-0DAC-4EA3-A64C-2E16E0107A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86B5219-03A8-4AA5-A988-D24AD4A0B127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86B5219-03A8-4AA5-A988-D24AD4A0B127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86B5219-03A8-4AA5-A988-D24AD4A0B127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86B5219-03A8-4AA5-A988-D24AD4A0B127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0EDAF37-465E-497B-A1CC-9F5974069BD7}
+	EndGlobalSection
+EndGlobal

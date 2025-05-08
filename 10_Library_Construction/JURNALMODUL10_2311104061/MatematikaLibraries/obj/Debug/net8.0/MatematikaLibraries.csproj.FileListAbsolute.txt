@@ -1,0 +1,11 @@
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\Candra Dinata\source\repos\JURNALMODUL10_2311104061\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll
